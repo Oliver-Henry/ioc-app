@@ -1,0 +1,3 @@
+include ':ioc-container'
+include ':app'
+rootProject.name = "IoC App"
